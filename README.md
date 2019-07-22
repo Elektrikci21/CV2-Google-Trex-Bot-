@@ -6,6 +6,17 @@ BOT
 bu bot googlenin Trex oyununu oynuyor. Botu görüntü işleme teknikleri ile yazdım zaten dosyanın içinde her satır için açıklama ekledim umarım anlaşılır olmuştur ben 1250 puana kadar gelebildim çok az algılamama oluyor genelde oyun çok hızlandığı zaman ağaçlara değiyor veya 2 ağaç arası mesafe çok az olursa değme oluyor . Üstten gelen yarasaları zaten hiç görmüyor program alttaki ve ortadan gelenleri görüp zıplayabiliyor.
 
 
+
+
+
+ÇALIŞTIRMAK İÇİN
+
+Çalıştırmak için öncelikle verdiğim oyun sitesine girin sonra oyunu başlatıp başka bir ekrana geçin bu sayede oyun donacaktır. Daha sonra size verdiğim Bot.py dosyasını idle üzerinden açın yani hani kod yazdıktan sonra f5 ile çalıştırıyoruz ya o kısımda açın ve çalıştırın çalıştırdıktan sonra oyun penceresini öne alın zaten program otomatik olarak trexi tanıdıktan sonra çalışacaktır başka birşey yapmanıza gerek yok klavyede bir tuşa basmazsanız o ağaç veya yarasa gördüğünde space tuşuna basacak.Programdan çıkmak için açılan herhangi bir ekranı öne alıp q tuşuna basmanız yeterli olacaktır eğer bu şekilde kapatamazsanız çalıştırkdan sonra ekrana gelen idleyi kapatırsanız yine program sonlanacaktır
+
+not: program Trexi tanıdıktan sonra eğer pencerenin yerini değiştirirseniz çalışmaz.
+
+
+
 ÇALIŞMA MANTIĞI
 
 
@@ -20,8 +31,4 @@ Evet gelelim karşılaştığım sorunlara. Öncelikle ilk sorun şu benim belir
 oyun aşırı hızlandığında bazen nesneyi görmeme gibi bir durum olabiliyor fakat ben bunu kendi bilgisayarımdan kaynaklanıyor olabileceğini düşünüyorum bilgisayarım bayağı bir eski ve sistem özelliklerim düşük. Ayrıca bizim ekrandan aldığımız görüntü 20 30 fps arası değişiyor belki bu yüzden de bazen algılamama problemleri ortaya çıkıyor olabilir 
 
 
-ÇALIŞTIRMAK İÇİN
 
-Çalıştırmak için öncelikle verdiğim oyun sitesine girin sonra oyunu başlatıp başka bir ekrana geçin bu sayede oyun donacaktır. Daha sonra size verdiğim Bot.py dosyasını idle üzerinden açın yani hani kod yazdıktan sonra f5 ile çalıştırıyoruz ya o kısımda açın ve çalıştırın çalıştırdıktan sonra oyun penceresini öne alın zaten program otomatik olarak trexi tanıdıktan sonra çalışacaktır başka birşey yapmanıza gerek yok klavyede bir tuşa basmazsanız o ağaç veya yarasa gördüğünde space tuşuna basacak.Programdan çıkmak için açılan herhangi bir ekranı öne alıp q tuşuna basmanız yeterli olacaktır eğer bu şekilde kapatamazsanız çalıştırkdan sonra ekrana gelen idleyi kapatırsanız yine program sonlanacaktır
-
-not: program Trexi tanıdıktan sonra eğer pencerenin yerini değiştirirseniz çalışmaz.
