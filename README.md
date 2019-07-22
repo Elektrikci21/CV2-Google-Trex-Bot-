@@ -11,7 +11,7 @@ bu bot googlenin Trex oyununu oynuyor. Botu görüntü işleme teknikleri ile ya
 
 ÇALIŞTIRMAK İÇİN
 
-Çalıştırmak için öncelikle verdiğim oyun sitesine girin sonra oyunu başlatıp başka bir ekrana geçin bu sayede oyun donacaktır. Daha sonra size verdiğim Bot.py dosyasını idle üzerinden açın yani hani kod yazdıktan sonra f5 ile çalıştırıyoruz ya o kısımda açın ve çalıştırın çalıştırdıktan sonra oyun penceresini öne alın zaten program otomatik olarak trexi tanıdıktan sonra çalışacaktır başka birşey yapmanıza gerek yok klavyede bir tuşa basmazsanız o ağaç veya yarasa gördüğünde space tuşuna basacak.Programdan çıkmak için açılan herhangi bir ekranı öne alıp q tuşuna basmanız yeterli olacaktır eğer bu şekilde kapatamazsanız çalıştırkdan sonra ekrana gelen idleyi kapatırsanız yine program sonlanacaktır
+Çalıştırmak için öncelikle verdiğim oyun sitesine girin sonra oyunu başlatıp başka bir ekrana geçin bu sayede oyun donacaktır. Daha sonra size verdiğim Bot.py dosyasını çalıştırın çalıştırdıktan sonra oyun penceresini öne alın zaten program otomatik olarak trexi tanıdıktan sonra çalışacaktır başka birşey yapmanıza gerek yok klavyede bir tuşa basmazsanız o ağaç veya yarasa gördüğünde space tuşuna basacak.Programdan çıkmak için açılan herhangi bir ekranı öne alıp q tuşuna basmanız yeterli olacaktır eğer bu şekilde kapatamazsanız çalıştırkdan sonra ekrana gelen idleyi kapatırsanız yine program sonlanacaktır
 
 not: program Trexi tanıdıktan sonra eğer pencerenin yerini değiştirirseniz çalışmaz.
 
